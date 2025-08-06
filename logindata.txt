@@ -1,0 +1,9 @@
+abc.001cd "e:\c++\Mini projects\" ; if ($?) { g++ loginform.cpp -o loginform } ; if ($?) { .\loginform }
+abc.123@gmail.comabc.123
+bc.123cd "e:\c++\Mini projects\" ; if ($?) { g++ loginform.cpp -o loginform } ; if ($?) { .\loginform }
+ahad.001ahad.001@gmail.com
+ahad.001ahad.001@gmail.com
+fahad.001fahad.001@gmail.comfahad.001
+Fahad.002Fahad.002@gmail.comFahad.002
+fahad.001fahad.001@gmail.comfahad.001
+fahad.001fahad@gmail.comfahad.001
